@@ -21,9 +21,9 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Mentor</p>
+        <p align="center">Develop</p>
         <a href="https://github.com/jonasrodrigs">
-        <img src="https://avatars.githubusercontent.com/u/139202435?v=4" alt="Jonas Rodrigues" width="100"><br>
+        <img src="https://github.com/jonasrodrigs/barber-shop-front-end/blob/master/src/img/IMG_20240918_214259.jpg" alt="Jonas Rodrigues" width="100"><br>
       </a>
     </td>
     <td colspan="3">
