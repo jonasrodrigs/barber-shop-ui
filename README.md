@@ -13,8 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
-
+  <a href="#"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Intermediário&color=E94D5F&labelColor=202024" alt="Nivel"></a>
 </p>
 
 <!--  -->
@@ -22,28 +21,26 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/juniorjrjl">
-        <img src="https://avatars.githubusercontent.com/u/6619093?u=0afe982a654793dfc9e886acab8b417aa632f511&v=4" alt="@felipeAguiarCode"><br>
+        <p align="center">Mentor</p>
+        <a href="https://github.com/jonasrodrigs">
+        <img src="https://avatars.githubusercontent.com/u/139202435?v=4" alt="Jonas Rodrigues" width="100"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ em desenvolvimento Backend (Principalmente com Java mas já atuei com Scala, Python, Kotlin).
-      <br/>
-     🌟 Desenvolvedor backend - CAJU
-      <br/>
-    👨‍💻 Foco em back-ends
+    <p>💻 Desenvolvedor Fullstack com foco em Angular, Java e Spring Boot.<br/>
+     🚀 Estudante de ADS na Unifacite | Formação prática no DevClub.<br/>
+     🧠 Apaixonado por tecnologia, aprendizado contínuo e criação de projetos úteis!
     </p>
       <a 
-      href="https://www.linkedin.com/in/josé-luiz-abreu-cardoso-junior-18483872/" 
+      href="https://www.linkedin.com/in/jonasrodriguesdev/" 
       align="center">
            <img 
             align="center" 
-            alt="Material de Apoio" 
+            alt="LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             >
         </a>
-        <a href="https://www.instagram.com/junior.jose.lz/" target="_blank">
+        <a href="https://www.instagram.com/jonasrodrigues.dev/" target="_blank">
             <img 
               align="center" 
               alt="Instagram" 
@@ -61,41 +58,28 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos criar um projeto Angular para agendamento de atendimento em uma barbearia, vamos usar a lib do Material e assim explorar alguns conceitos do framework Angular
+Este projeto consiste em uma aplicação Angular para agendamento de serviços em uma barbearia. Utilizamos Angular Material e exploramos os principais conceitos do framework Angular como componentização, consumo de APIs e interação com backend.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+Antes de iniciar, recomenda-se ter conhecimento em:
 
-  - Javascript | Intermediário
-  - Typescript | Intermediário
+  - JavaScript | Intermediário
+  - TypeScript | Intermediário
   - HTML | Intermediário
   - CSS | Intermediário
-  - Docker | Básico (opcional)
-  - Docker Compose | Básico (opcional)
+  - Docker e Docker Compose | Básico (opcional)
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+## 🛠️ Habilidades e Sub-habilidades Abordadas
 
-  - Frontend
-    - Consumo de Api Rest
-    - Comunicação com backend
-    - Componentização
+- **Frontend**
+  - Angular + Material Design
+  - Componentização
+  - Consumo de API REST
+  - Integração com backend
 
 ## 🎯 Objetivos e Resultados Esperados
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Ao final do projeto, você será capaz de:
 
-- Criar um projeto Angular.
-- Consumir API Rest.
-- Componentizar para reaproveitar e organizar o projeto
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+- Criar aplicações Angular estruturadas e reutilizáveis
